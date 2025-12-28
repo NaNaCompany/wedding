@@ -16,6 +16,10 @@
     box-sizing: border-box;
 }
 
+.footer a {
+    color:white;
+}
+
 body {
     font-family: var(--font-base);
     background-color: var(--secondary-color);
@@ -362,7 +366,7 @@ section {
     background: #333;
     color: rgba(255,255,255,0.6);
     font-size: 0.8rem;
-    margin-bottom: 200px;
+    margin-bottom: 400px;
 }
 
 .footer .copyright {
